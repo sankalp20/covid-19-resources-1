@@ -1,0 +1,145 @@
+body{
+  font-family: "Montserrat-black";
+  font-size: 1.5rem;
+  line-height: 1.5;
+  margin: 0;
+}
+section{
+  padding: 3% 5%;
+}
+h1,h2,h3,h4{
+  text-align: center;
+  font-size: 2.5rem;
+  padding: auto;
+}
+
+/* banner image */
+#banner{
+  padding: 0;
+}
+.banner-image{
+  width: 100%;
+  margin: 0;
+  height: 25rem;
+}
+
+/* navigation bar */
+#navigation{
+  margin: 0;
+  padding: 0;
+  /* position: absolute;
+  z-index: 2; */
+}
+.navbar-brand {
+  font-family: 'Mate SC', serif;
+  font-size: 1.5rem;
+  font-weight:bold;
+  margin-left: 2%;
+}
+.nav-item {
+  padding: 0 18px;
+}
+.nav-link {
+  font-size: 1rem;
+  font-family: 'Open Sans', sans-serif;
+}
+.container-fluid{
+  padding: 0;
+}
+
+/* vaccine-rules */
+#vaccine-rules{
+  margin: 0;
+  background-color: #F2EBC9;
+}
+.vaccine-quote{
+  font-family: 'Squada One', cursive;
+  text-align: center;
+  padding: 0 4%;
+}
+
+/* vaccination box */
+#vaccine-box{
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+}
+/* .buttons{
+  text-align: center;
+  padding: 2% 10%;
+}
+.button-links{
+  text-decoration: none;
+  color: #fff;
+  text-align: center;
+}
+.button-links:hover{
+  color:#fff;
+}
+.vaccine-box-buttons{
+
+} */
+.vaccine-box-button{
+  text-align: center;
+  margin: 0 2%;
+  background-color: light;
+}
+.buttons{
+  background-color: #F2EBC9;
+  padding: 2% 3%;
+
+}
+.d-button{
+  padding: 0 2%;
+}
+.button-links{
+  text-decoration: none;
+  color: black;
+  font-family: 'Open Sans', sans-serif;
+}
+.button-links:hover{
+  color: black;
+}
+
+/* team members */
+#team{
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+}
+.team-img{
+  width: 30%;
+  border-radius: 100%;
+  height: 10%;
+  text-align: center;
+}
+.member-name{
+  font-family: "Montserrat-bold";
+  font-size: 2rem;
+  color: #333333;
+}
+
+/* footer section */
+#footer{
+  background-color: #3D4142;
+  color: #fff;
+  padding-bottom: 1%;
+  font-size: 1rem;
+}
+.social{
+  text-align: center;
+}
+.social-icons{
+  padding: 3% 2%;
+  text-align: center;
+  color: #fff;
+}
+.social-icons:hover{
+  color: #1374F2;
+}
+
+/* copyright */
+.copyright{
+  padding: 0 7%;
+  text-align: center;
+  font-size: 1rem;
+}

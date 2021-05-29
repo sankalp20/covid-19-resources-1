@@ -1,0 +1,120 @@
+body{
+  font-family: "Montserrat-black";
+  font-size: 1.5rem;
+  line-height: 1.5;
+  margin: 0;
+}
+section{
+  padding: 3% 5%;
+}
+h1,h2,h3,h4{
+  text-align: center;
+  font-size: 2.5rem;
+  padding: auto;
+}
+
+/* banner image */
+#banner{
+  padding: 0;
+}
+.banner-image{
+  height: 30rem;
+}
+
+/* navigation bar */
+#navigation{
+  margin: 0;
+  padding: 0;
+  /* position: absolute;
+  z-index: 2; */
+}
+.navbar-brand {
+  font-family: 'Mate SC', serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-left: 2%
+}
+.nav-item {
+  padding: 0 18px;
+}
+.nav-link {
+  font-size: 1rem;
+  font-family: 'Open Sans', sans-serif;
+}
+.container-fluid{
+  padding: 0;
+}
+
+/* quote */
+.quote{
+  background-color: #E8E6E6;
+  padding: 5% 7%;
+  font-family: 'Anton', sans-serif;
+  font-weight: lighter;
+}
+
+/* beds section */
+#beds{
+  line-height: 2.5;
+}
+.heading{
+  font-size: 2rem;
+  padding: 1% 3% 3%;
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 400;
+}
+.state-link{
+  text-decoration: none;
+  color: black;
+}
+.state-link:hover{
+  color: #fff;
+}
+.state-button{
+  margin: 2% 3%;
+  text-align: center;
+}
+
+/* team members */
+#team{
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  background-color: #E8E6E6;
+}
+.team-img{
+  border-radius: 100%;
+  width: 30%;
+  height: 10%;
+  text-align: center;
+}
+.member-name{
+  font-family: "Montserrat-bold";
+  font-size: 2rem;
+  color: #333333;
+}
+
+/* footer section */
+#footer{
+  background-color: #0D0D0D;
+  color: #fff;
+  padding-bottom: 1%;
+  font-size: 1rem;
+}
+.social{
+  text-align: center;
+}
+.social-icons{
+  padding: 3% 2%;
+  text-align: center;
+  color: #fff;
+}
+.social-icons:hover{
+  color: #1374F2;
+}
+
+/* copyright */
+.copyright{
+  padding: 0 7%;
+  text-align: center;
+  font-size: 1rem;
+}
